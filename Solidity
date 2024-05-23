@@ -52,14 +52,4 @@ contract MyToken {
         return 18;
     }
 }
-
-
-
-
-
-  
-
-    
-
-    
 }
